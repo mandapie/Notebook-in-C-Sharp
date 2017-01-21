@@ -1,0 +1,6 @@
+c:\users\amanda\documents\visual studio 2015\Projects\notebook\notebook\bin\Debug\notebook.exe.config
+c:\users\amanda\documents\visual studio 2015\Projects\notebook\notebook\bin\Debug\notebook.exe
+c:\users\amanda\documents\visual studio 2015\Projects\notebook\notebook\bin\Debug\notebook.pdb
+c:\users\amanda\documents\visual studio 2015\Projects\notebook\notebook\obj\Debug\notebook.exe
+c:\users\amanda\documents\visual studio 2015\Projects\notebook\notebook\obj\Debug\notebook.pdb
+c:\users\amanda\documents\visual studio 2015\Projects\notebook\notebook\obj\Debug\notebook.csprojResolveAssemblyReference.cache
